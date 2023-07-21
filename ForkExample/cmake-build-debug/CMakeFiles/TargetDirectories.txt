@@ -1,0 +1,3 @@
+/Users/lucadani/CLionProjects/ForkExample/cmake-build-debug/CMakeFiles/ForkExample.dir
+/Users/lucadani/CLionProjects/ForkExample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucadani/CLionProjects/ForkExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
